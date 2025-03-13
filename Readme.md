@@ -1,5 +1,13 @@
 # Electric Field Visualization Project
 
+## Personal Note
+
+I recently rediscovered these Python scripts while going through some old project folders. When I originally created them during my physics coursework, I wasn't familiar with Git version control, so they remained tucked away on my local drive. Now that I've learned how to use Git properly, I'm finally uploading them to share with others who might find them useful for visualizing electric fields and understanding electromagnetic theory concepts.
+
+Looking back at this code reminds me of my early programming journey and physics studies. While there are improvements I could make now, I'm preserving much of the original work as a reminder of my learning path.
+
+## Project Overview
+
 This project provides a collection of Python scripts to visualize electric fields and potentials in various configurations, with a focus on spherical charge distributions. The visualizations use 3D plots to represent electric field vectors and potential surfaces.
 
 ## Features
@@ -80,9 +88,13 @@ Where:
 - b is the outer radius
 - r is the distance from the center
 
+## Why I'm Sharing This Now
+
+As I've advanced in my programming skills and learned about version control with Git, I realized these visualizations could be valuable to physics students and enthusiasts. Despite their age, the scripts demonstrate important electromagnetic principles and provide a good starting point for further explorations.
+
 ## Future Improvements
 
-Potential enhancements for this project include:
+Potential enhancements I'm considering for this project include:
 - Interactive controls to adjust charge densities and radii
 - Animation showing time-varying fields
 - Addition of magnetic field visualizations
